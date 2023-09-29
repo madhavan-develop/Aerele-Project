@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# INVENTORY MANAGEMENT SYSTEM
+##
+### language used HTML,CSS,Bootstrap,ReactJS,NodeJS,Mysql
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# HOME
+![image](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/2181619e-469b-477d-8960-fa4af20040ae)
+# LOGIN
+![Screenshot (3)](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/2f062732-6bc2-4d5f-9c98-b2a55fe31bf7)
+# REGISTER
+![image](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/b6c8246c-06bf-45ed-abd4-4bc4965b4748)
+# DASHBOARD
+![image](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/5aa3f222-2db1-4b56-898a-4fc12547214b)
+# ADD PRODUCT
+![image](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/4c41f2b9-d966-4d3d-80a5-a3f41c8e7881)
+# LOCATION
+![image](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/6494bb55-bea8-4bd2-958f-2e98a54e7465)
+# PRODUCT UPDATE
+![image](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/332127ac-1b0a-49f8-a598-992ed6249edf)
+# DISPATCH PRODUCT
+![image](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/42fc4e4a-51ae-40c2-8e6f-3c70a3f3c991)
