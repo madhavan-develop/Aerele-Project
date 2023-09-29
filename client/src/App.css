@@ -1,0 +1,77 @@
+/* navbar */
+.navbar-brand{
+    text-shadow:3px 3px 10px #dd096c;
+}
+.nav-link{
+    text-shadow:3px 3px 10px #ee042b;
+}
+.nav-link:hover{
+    border-bottom: 1px double yellow;
+}
+.navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+.navbar-toggler{
+    border: 2px solid rgb(255, 255, 255) !important;
+} 
+li.a{
+list-style-type:none;
+}
+/* home */
+.homepage,.contact{
+    background-image: url("https://wallpapercave.com/wp/Rstecz1.jpg");
+    background-repeat:no-repeat ;
+    background-size: cover;
+    min-height:100vh;
+}
+img{
+    opacity: 0.5;
+    box-shadow: 10px 10px 8px black;
+}
+.but{
+    border:none;
+}
+/* register */
+/* .register,.addproduct,.update{
+    background-image: url("https://th.bing.com/th/id/R.b5fc9bb97a79bc4a6914852c17055eff?rik=4ZmXt5RdH3pCkg&riu=http%3a%2f%2favante.biz%2fwp-content%2fuploads%2fBackground-Images-For-Websites%2fBackground-Images-For-Websites-042.jpg&ehk=gm7basIt9MmeiCf9KILaNI8CK89fwNJZbEp6akcogw4%3d&risl=&pid=ImgRaw&r=0");
+    background-repeat:no-repeat ;
+    background-size: cover;
+    min-height:100vh;
+}  */
+.btn-bg :hover {
+background-color: rgb(10, 233, 10) !important;
+}
+/* location */
+.location{
+    background-image: url("https://th.bing.com/th/id/OIP.Zd-IUfC39IsR9WYAPGAhEwHaDK?pid=ImgDet&rs=1");
+    background-repeat:no-repeat ;
+    background-size: cover;
+    min-height:100vh;   
+}
+.loc-card {
+    box-shadow: 10px 8px 8px black;
+    /* background-color:rgb(194, 5, 37) !important; */
+    color:white;
+}
+/* dashboard */
+.dashboard{
+    background-image: url("https://wallpapercave.com/wp/Rstecz1.jpg");
+    background-repeat:no-repeat ;
+    background-size: cover;
+    min-height:100vh;
+}
+.tablealign tr,.tablealign td{
+    border:2px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+}
+.dispatch,.register,.addproduct,.update{
+    background-image: url("https://images.pexels.com/photos/3426879/pexels-photo-3426879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat:no-repeat ;
+    background-size: cover;
+    min-height:100vh;
+}
+.contactlabel{
+    width:30px;
+    
+}
