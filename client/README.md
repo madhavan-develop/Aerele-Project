@@ -13,8 +13,9 @@
 # ADD PRODUCT
 ![image](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/4c41f2b9-d966-4d3d-80a5-a3f41c8e7881)
 # LOCATION
-![image](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/6494bb55-bea8-4bd2-958f-2e98a54e7465)
+![Screenshot (9)](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/bfe4ce31-dd5a-4550-a7ba-7b1255188171)
 # PRODUCT UPDATE
 ![image](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/332127ac-1b0a-49f8-a598-992ed6249edf)
 # DISPATCH PRODUCT
-![image](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/42fc4e4a-51ae-40c2-8e6f-3c70a3f3c991)
+![Uploading image.png…]()
+
