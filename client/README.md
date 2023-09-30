@@ -17,5 +17,6 @@
 # PRODUCT UPDATE
 ![image](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/332127ac-1b0a-49f8-a598-992ed6249edf)
 # DISPATCH PRODUCT
-![Uploading image.png…]()
+![Screenshot (11)](https://github.com/madhavan-develop/Aerele-Project/assets/138356052/6d62ca61-068b-47e6-a863-a2a190dfdaa6)
+
 
